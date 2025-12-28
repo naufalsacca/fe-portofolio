@@ -1,16 +1,12 @@
 # Website Portofolio
-
 Website portofolio sederhana untuk menampilkan profil dan skill frontend.
-
-## Fitur
+# Fitur
 - Responsive layout
 - Dark / Light mode
 - Interaksi JavaScript
-
-## Cara Menjalankan
+# Cara Menjalankan
 Cukup buka file index.html di browser.
-
-## Teknologi
+# Teknologi
 - HTML
 - CSS
 - JavaScript
